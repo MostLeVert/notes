@@ -1,19 +1,115 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="icon" href="home-favicon.svg" type="image/x-icon">
-    <title>Axel's Notes</title>
-</head>
-<style></style>
-<body>
-    <h1>Winter 2024 Class Directory</h1>
-    <ul>
-        <li>
-            <a href="/years/1/sem2/classes/wrds150/index.html">WRDS 150</a>
-            <a href="/years/1/sem2/classes/math101/index.html">MATH 101</a>
-        </li>
-    </ul>
-</body>
+    <head>
+        <meta charset="UTF-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <link rel="icon" href="home-favicon.svg" type="image/x-icon" />
+        <title>Axel's Notes</title>
+    </head>
+    <style>
+        * {
+            padding: 0;
+            margin: 0;
+        }
+        html {
+            height: 100vh;
+            width: 100vw;
+            font-family: monospace;
+        }
+        body {
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            width: 100%;
+            height: 100%;
+        }
+        #container {
+            max-width: 900px;
+            max-height: 900px;
+            width: 90%;
+            height: 80%;
+            border: 2px solid black;
+        }
+        ul {
+            list-style-type: none;
+            padding: 0;
+            display: flex;
+            flex-direction: column;
+            font-size: 2.5rem;
+            align-items: center;
+            justify-content: center;
+            height: 85%;
+        }
+        li {
+            margin: 2.5rem 0 2.5rem;
+        }
+        a {
+            color: black;
+        }
+        ul a {
+            text-decoration: none;
+        }
+        ul a:hover {
+            text-decoration: underline;
+        }
+        #info-bar {
+            display: flex;
+            flex-direction: column;
+            justify-content: end;
+            height: 15%;
+            padding: 0px 10px 0px;
+        }
+        #info-bar-above {
+            font-size: 0.8rem;
+        }
+        #info-bar-below {
+            padding: 10px;
+            height: 10%;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+        }
+    </style>
+    <body>
+        <div id="container">
+            <ul>
+                <li>
+                    <a href="/years/1/sem2/classes/wrds150/index.html"
+                        >WRDS 150</a
+                    >
+                </li>
+                <li>
+                    <a href="/years/1/sem2/classes/math101/index.html"
+                        >MATH 101</a
+                    >
+                </li>
+            </ul>
+            <div id="info-bar">
+                <div id="info-bar-above">
+                    <p>
+                        Disclaimer: All notes on
+                        <a href="https://notes.axelj/dev">notes.axelj.dev</a>are
+                        my own interpretations derived from spoken lectures at
+                        UBC. These notes are not copied directly from any
+                        lecture or other copyrighted works provided to students.
+                        This content is created for educational purposes and is
+                        not affiliated with, nor officially endorsed by, UBC or
+                        any of its faculty. While efforts have been made to
+                        ensure accuracy, the notes may not fully represent the
+                        content or intent of the original lectures. This site
+                        and its content are intended for non-commercial,
+                        educational use. If you have any concerns about the
+                        content, please contact
+                        ajalonen/at/student/dot/ubc/dot/ca
+                    </p>
+                </div>
+                <div id="info-bar-below">
+                    <p>
+                        A project by
+                        <a href="https://axelj.dev">Axel Jalonen</a>
+                    </p>
+                </div>
+            </div>
+        </div>
+    </body>
 </html>
