@@ -15,6 +15,15 @@ fs.readdirSync('./dist').forEach(file => {
     }
 });
 
+const renderer = {
+    heading(text, level) {
+      const escapedText = text.toLowerCase().replace(/[^\w]+/g, '-');
+      return `<h${level} id="${escapedText}">${text}</h${level}>`;
+    }
+};
+
+marked.use({ renderer });
+
 function recurseDirectory(dirPath) {
     // Read the contents of the current directory
     fs.readdir(dirPath, { withFileTypes: true }, (err, dirents) => {
