@@ -1,5 +1,3 @@
-#! bin/bash
-
 rm TEMP-FILES-LIST
 find ./src -type f "*.md" > TEMP-FILES-LIST
 git add -A 
