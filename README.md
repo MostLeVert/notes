@@ -8,7 +8,7 @@ I write my notes in Markdown inside of VSCode from a personal documents folder. 
 
 ## The node script
 
-The node script is pretty simple. It copies the /src/ dir to /dist/ and then it transpiles the markdown to html with [marked](https://marked.js.org/) using the `template.html`. 
+The node script is pretty simple. It copies the /src/ dir to /dist/ and then it will transpile the markdown to html with [marked](https://marked.js.org/) using the `template.html`. 
 
 ## Updating on file change
 
