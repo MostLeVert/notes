@@ -25,13 +25,9 @@ function recurseDirectory(dirPath) {
 
         dirents.forEach((dirent) => {
             const fullPath = path.join(dirPath, dirent.name);
-
-            // Check if the item is a directory
             if (dirent.isDirectory()) {
-                // If so, recurse into this directory
                 recurseDirectory(fullPath);
             } else {
-                console.log(fullPath);
                 const content = fs.readFileSync(`./${fullPath}`, 'utf-8')
                 const markedContent = marked(content)
                 const markedContentHtml = template.replace('{{content}}', markedContent)
