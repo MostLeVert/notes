@@ -10,6 +10,16 @@
     - [Riemann Sums](#riemann-sums)
       - [Trapezoid Rule](#trapezoid-rule)
       - [Defining the Integral](#defining-the-integral)
+  - [Lecture 2 (two) - January 17 2024 - 2024/01/17](#lecture-2-two---january-17-2024---20240117)
+    - [Basic properties of the definite integral](#basic-properties-of-the-definite-integral)
+      - [Property 1](#property-1)
+      - [Property 2](#property-2)
+      - [Property 3](#property-3)
+      - [Property 4](#property-4)
+    - [The fundamental theorem of calculus pt1](#the-fundamental-theorem-of-calculus-pt1)
+    - [The fundamental theorem of calculus pt2](#the-fundamental-theorem-of-calculus-pt2)
+      - [Proof](#proof)
+    - [Practice](#practice)
 
 ## Lecture one (1) - January 10 2024 - 2024/01/10
 
@@ -102,3 +112,74 @@ $$\int_{a}^{b}f(x)\, dx = \lim_{N\to\infty}\sum_{k=1}^{N}f(x_{k})\Delta x$$
 The limit exists if $f$ is continuous (or piecewise continuous) on $[a,b]$
 
 Notice that our expression is using the right hand rule. Which hand we use does not matter, because as our width tends $0$, our error also tends to $0$. So using, left, right, middle, etc., rule is non-important.
+
+## Lecture 2 (two) - January 17 2024 - 2024/01/17
+
+### Basic properties of the definite integral
+
+![Rules of the integral](image.png)
+
+The first two rules can be said as the result of a function being _linear_ that is, when constants can come in and out, and when the sum is respected, the function must be linear. The definite integral is a linear function.
+
+Caution: Rule one does not apply for the product of functions.
+
+#### Property 1
+
+$\int_{a}^{b}cf(x)dx = c\int_{a}^{b}f(x)dx$
+
+Riemann sum: each rectangle height is $f(x_{k})\to cf(x_{k})$ so the area is $\text{area}\to c(\text{area})$
+
+#### Property 2
+
+Illustrating graphically, we can see that increases the value of the function we are taking the integral of is the same as adding two areas together.
+
+#### Property 3
+
+$\int_{b}^{a}f9x)dx = -\int_{a}^{b}f(x)dx$
+
+This makes sense because the $\Delta x$ will be negative.
+
+#### Property 4
+
+$\int_{a}^{b}f(x)dx = \int_{a}^{c}f(x)dx + \int_{c}^{b}f(x)dx$
+
+Note that this property holds even when $c$ is not between $a$ and $b$. $c$ can be to the right of left of either $a$ or $b$.
+
+![Property 4 graphic representation](image-1.png)
+
+Note that doing the integral from $a \to c$ will be negative, thus the area will still be correct
+
+> We may need to justify these during a test
+
+### The fundamental theorem of calculus pt1
+
+Let $f$ be a function (continuous) on the interval $[a,b]$. Then its area function $A(x) = \int_{a}^{x}f(t)dt$ satisfies $\frac{d}{dx}A(x)=f(x)$
+
+> Integrating and differentiating are "inverse"
+
+Given $F(x) = \int_{0}^{x^2}\sin(t)dt$ then $F'(x) = 2x\cdot \sin(x^2)$
+
+Write $F(x) = A(x^2)$ where $A(x) = \int_{0}^{x}\sin(t)dt$
+
+Use the chain rule $F'(x) = A'(x^2)(2x) = \sin(x^2)2x$.
+
+### The fundamental theorem of calculus pt2
+
+Let $f$ be a continuous function on an interval $[a,b]$. Suppose $F$ is a function satisfying $F'(x) = f(x)$ on $(a,b)$. THen for $a \leq x \leq b$
+$A(x) = \int_{a}^{x}f(t)dt = F(x) - F(a)$.
+
+_A function $F$ satisfying $F' = f$ is an antiderivative of $f$._
+
+#### Proof
+
+From [FTC pt1](#the-fundamental-theorem-of-calculus-pt1) we know $A'(x) = f(x) = F'(x)$ so $\frac{d}{dx}[A(x)-F(x)] = A'(x)-F'9x) = 0$ for all $a < x < b$ Which means that $A(x)-F(x)$ is a constant on $[a,b]$ so $A(x)-F(x) = A(a) - F(a)$ thus $A(x)=F(x)-F(a)$ Note: we have removed $A(a)$ as the integral from $a$ to $a$ is $0$
+
+### Practice
+
+a) $\int 12x^2dx = 4x^3+c$\
+b) $\int 4t^7dt = \frac{1}{2}t^8 + c$\
+c) $\int cos(4x)dx = \frac{1}{4}\sin(4x)+c$\
+d) $\int e^{2x}dx = \frac{1}{2}e^{2x} + c$\
+e) $\int 4dy = 4x +c$\
+f) $\int x^ndx = \frac{1}{n+1}x^{n+1} +c$\
+g) $\int \frac{1}{x}dx = \ln(x) + c$

@@ -4,15 +4,19 @@
 
 - [WRDS 150B](#wrds-150b)
   - [Table of Contents](#table-of-contents)
-  - [Lecture 2 - Genre Theory - January 10 2024, 2024/01/10](#lecture-2---genre-theory---january-10-2024-20240110)
-  - [Lecture 3 - Paul Krugman "The depravity of climate change denial" - January 15 2024, 2024/01/15](#lecture-3---paul-krugman-the-depravity-of-climate-change-denial---january-15-2024-20240115)
+  - [Lecture 2 (Two) - Genre Theory - January 10 2024, 2024/01/10](#lecture-2-two---genre-theory---january-10-2024-20240110)
+  - [Lecture 3 (Three) - Paul Krugman "The depravity of climate change denial" - January 15 2024, 2024/01/15](#lecture-3-three---paul-krugman-the-depravity-of-climate-change-denial---january-15-2024-20240115)
     - [Reading for gist Breaking texts down](#reading-for-gist-breaking-texts-down)
     - [Evidence (or lack thereof)](#evidence-or-lack-thereof)
     - [Audience](#audience)
     - [Topic \& Background](#topic--background)
     - [Assumptions \& Focus](#assumptions--focus)
+  - [Lecture 4 (four) Creating and Introducing Arguments - January 17 2024 - 2024/01/17](#lecture-4-four-creating-and-introducing-arguments---january-17-2024---20240117)
+    - [On how we wrote in highschool](#on-how-we-wrote-in-highschool)
+    - [Writing Now](#writing-now)
+    - [Introducing arguments at the sentence level](#introducing-arguments-at-the-sentence-level)
 
-## Lecture 2 - Genre Theory - January 10 2024, 2024/01/10
+## Lecture 2 (Two) - Genre Theory - January 10 2024, 2024/01/10
 
 Genre is complicated.
 
@@ -40,7 +44,7 @@ Instrument choice, banjo, vocal presentation (singing vs. rapping). What defines
 
 Billboard decided which genre it belonged in, it has specific economic goals, etc. It defines the awards, radio stations, etc.
 
-## Lecture 3 - Paul Krugman "The depravity of climate change denial" - January 15 2024, 2024/01/15
+## Lecture 3 (Three) - Paul Krugman "The depravity of climate change denial" - January 15 2024, 2024/01/15
 
 Krugman's main argument is: "And denying science for profit, political advantage or ego satisfaction is not O.K.; when
 failure to act on the science may have terrible consequences, denial is, as I said, depraved." (Krugman 1)
@@ -110,3 +114,47 @@ This article assumes a lot of knowledge on the American system. Trump, parties, 
 The argument of this article isn't to argue that climate change is real, it's meant for people who already believe this. His main argument is taking climate change denial from "wrong" to "depraved". The assumptions made and the focus of the article indicate that Krugman assumes a certain alignment of opinion (climate change is real, denying it is bad).
 
 **In academic context argument must match evidence!**
+
+## Lecture 4 (four) Creating and Introducing Arguments - January 17 2024 - 2024/01/17
+
+Note: Asynchronous materials
+
+### On how we wrote in highschool
+
+We generally have:
+
+- Thesis
+- Support Argument One
+  - Topic sentence
+  - Three pieces of supporting evidence
+  - Concluding sentence
+- Support Argument Two
+- Support Argument Three
+
+### Writing Now
+
+We need a message, a main idea that we are arguing, this is the _focus_. We often have an argument developed over several paragraphs which develop the argument together. And each paragraph has a sub-focuses.
+
+We need evidence. (We may not need evidence in Philosophy.), but most writing requires evidence.
+
+We need analysis. We must present the evidence that we have & then we must provide an analysis which ties the evidence to the argument.
+
+We need background information. This depends on the audience which means we must know our audience. To do this we read articles written by others in our particular field. We go through degrees and we take classes and we learn. We find the baseline level of knowledge that the audience has which will determine what we explain and we assume the audience knows. Background information may refer to such things as terminology or other information.
+
+We need transitions (A more technical writing skill) which ties the "bricks" of the other elements of the writing to together, thus it is the "cement" of the writing. They can be entire sentences which connect ideas or words that connect sentences together. When we move between pieces of evidence we use a transition sentence to create a logical transition between the two sections.
+
+It is not unusual for an academic paper to have an entire paragraph of background information. Also note that these things do not need to be a particular order. This means that we can "back into" a focus, and arguments. There is not requirement that background information comes all in one section. It can come before the section where it is referenced. We can decide if analysis should be in one section or multiple. We must fit to the argument and audience that we are targeting.
+
+### Introducing arguments at the sentence level
+
+Three main ways:
+
+- Declarative statement: introduce argument as if it is a fact. Normally when we present the argument of an essay it is made as a declarative statement. If this cannot be done, then there is a problem with your main argument. We make the declarative statement when we are confident
+  - Example: "The Trump administration is, it goes without saying, deeply anti-science." (Krugman 22). Not the phrasing which presents this as a fact.
+  - Example: "Even though the novelty and drama surrounding climate change has since declined, the press has been persistent in its coverage, especially in its attention to scientific uncertainty. Scientific uncertainty has served as an important "frame"30 through which the science of climate change was presented in the press." (Zehr 88-89). Note the declarative statement, this declarative statement is only valid because he's done a shit ton of evidence to backup these declarative statements.
+- Qualifiers: "seems, could, might, etc". Any time we are predicting or making educated guess, we need a qualifier. These statements often come in the conclusions of writings. Especially in scientific articles, where the conclusion make predictions about the future, or the papers potential impact in the future, etc.
+  - Example: "But climate change isn't just killing people; it may well kidd civilization." (Krugman 22). Note the wording of "May" which is qualifier, denoting his prediction. Krugman also uses phrases such as "As far as I can tell". Let this raise a flag in your mind that highlights what may be a lack of evidence.
+  - Example: "Three recurrent forms are explored, using the labels: scientific controversy, new research, and expansion of the problem domain. These forms are probably not unique to the global climate change phenomenon." (Zehr 90). Note the usage of the word "probably". Zehr hasn't done the research to prove his claim following "probably".
+- Limiting expressions. When making generalizations, we use a limiting expression to allow for the possibility of exceptions. Words that serve this functionality are: "Usually, most, some, many, generally, partly, etc.".
+  - Example: "But there are almost no good-faith climate-change deniers." (Krugman 22). Krugman is suggesting that there may be some good-faith climate change deniers. However, he's suggests that are very few of said people. But because he wants to acknowledge the possibility of exceptions he uses the word "almost"
+  - Example: "Most accounts of new research involved novel means for measuring global warming or climate change". (Zehr 92). Here the limiting expression is "Most accounts".
