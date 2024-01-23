@@ -15,6 +15,8 @@
     - [On how we wrote in highschool](#on-how-we-wrote-in-highschool)
     - [Writing Now](#writing-now)
     - [Introducing arguments at the sentence level](#introducing-arguments-at-the-sentence-level)
+  - [Lecture 5 (Five) - January 22 2024 - 2024/01/24](#lecture-5-five---january-22-2024---20240124)
+    - [Stephan Zehr's Article](#stephan-zehrs-article)
 
 ## Lecture 2 (Two) - Genre Theory - January 10 2024, 2024/01/10
 
@@ -158,3 +160,9 @@ Three main ways:
 - Limiting expressions. When making generalizations, we use a limiting expression to allow for the possibility of exceptions. Words that serve this functionality are: "Usually, most, some, many, generally, partly, etc.".
   - Example: "But there are almost no good-faith climate-change deniers." (Krugman 22). Krugman is suggesting that there may be some good-faith climate change deniers. However, he's suggests that are very few of said people. But because he wants to acknowledge the possibility of exceptions he uses the word "almost"
   - Example: "Most accounts of new research involved novel means for measuring global warming or climate change". (Zehr 92). Here the limiting expression is "Most accounts".
+
+## Lecture 5 (Five) - January 22 2024 - 2024/01/24
+
+### Stephan Zehr's Article
+
+
