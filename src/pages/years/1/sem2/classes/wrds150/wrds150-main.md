@@ -17,6 +17,7 @@
     - [Introducing arguments at the sentence level](#introducing-arguments-at-the-sentence-level)
   - [Lecture 5 (Five) - January 22 2024 - 2024/01/24](#lecture-5-five---january-22-2024---20240124)
     - [Stephan Zehr's Article](#stephan-zehrs-article)
+  - [Friday Jan 26 Asynchronous Materials](#friday-jan-26-asynchronous-materials)
 
 ## Lecture 2 (Two) - Genre Theory - January 10 2024, 2024/01/10
 
@@ -165,4 +166,7 @@ Three main ways:
 
 ### Stephan Zehr's Article
 
+_See class notes_
+
+## Friday Jan 26 Asynchronous Materials
 
