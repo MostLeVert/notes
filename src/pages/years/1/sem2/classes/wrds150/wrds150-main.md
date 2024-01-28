@@ -18,6 +18,23 @@
   - [Lecture 5 (Five) - January 22 2024 - 2024/01/24](#lecture-5-five---january-22-2024---20240124)
     - [Stephan Zehr's Article](#stephan-zehrs-article)
   - [Friday Jan 26 Asynchronous Materials](#friday-jan-26-asynchronous-materials)
+    - [Long Summaries](#long-summaries)
+      - [Part of essay/article](#part-of-essayarticle)
+      - [Review article](#review-article)
+      - [Annotated Bibliography](#annotated-bibliography)
+      - [Book Review](#book-review)
+    - [Our summary](#our-summary)
+      - [Structure](#structure)
+        - [Focus](#focus)
+        - [Evidence](#evidence)
+        - [Analysis](#analysis)
+        - [Background evidence](#background-evidence)
+        - [Transitions](#transitions)
+      - [Other considerations](#other-considerations)
+        - [Citations](#citations)
+        - [Quotes](#quotes)
+        - [Signal Phrases](#signal-phrases)
+        - [Extra tips](#extra-tips)
 
 ## Lecture 2 (Two) - Genre Theory - January 10 2024, 2024/01/10
 
@@ -166,7 +183,94 @@ Three main ways:
 
 ### Stephan Zehr's Article
 
-_See class notes_
+See class notes
 
 ## Friday Jan 26 Asynchronous Materials
 
+### Long Summaries
+
+#### Part of essay/article
+
+They can be part of an essay or an article. If you spend at least 1 paragraph analyzing something it usually is a theory. In some cases we spend 1 paragraph summarizing someones ideas, or theory, or etc., and sometimes that's because we're going to go in an entirely different direction.
+
+It is still important to consider your audience. Ask yourself if you already have an expectation of some knowledge on their part or not, do they need the summary or not.
+
+Long summary lets you introduce how you will approach your arguments, etc.
+
+#### Review article
+
+A review article goes through other books or articles, summarizing them all. It's point is to get people "caught up" in the subject. They usually do not comment or critique the work
+
+#### Annotated Bibliography
+
+In annotated bibliographies we tend to have a focus, if we are summarizing a book, not everything in the book will be relevant, so we might state the what the book is all about, then dive into the one or two, or other, chapters, etc., that are relevant.
+
+#### Book Review
+
+Book reviews generally follow this formula:
+
+- Topic and/or existing scholarship
+- General summary (chapter breakdown)
+- Specific example
+- Praise
+- Critique: generally they are written by recent graduates, people new to academia. They are generally reviewing books written by more seasoned academics. When a seasoned academic writes a book review it can be BRUTAL.
+- value/appeal
+
+### Our summary
+
+It is critical that you treat the writing as if it is for someone who has not read the content.
+
+Imagine that you are writing for other students in a different section of WRDS150. You must explain what you are saying properly.
+
+#### Structure
+
+Recall the general formula for writing
+
+- Focus
+- Evidence
+- Analysis
+- Background
+- Transition
+
+##### Focus
+
+When we are writing a summary, the most important part is generally what about the book/article is novel, that is new to the field. That might be actual new data, however, in the humanities / social science, it is usually the argument that is new. When we are going through and choosing what to summary, find the main & supporting arguments. Those are the main points, those are what we must make clear in our summary.
+
+##### Evidence
+
+We can model the article by what each paragraph says. Be brief and talk about the type of evidence. If the data taking method for the article you are summarizing is of interest you can include. In a paragraph summary we want maybe 1-2 sentences about the TYPE of evidence the article uses.
+
+##### Analysis
+
+In summaries we aren't analyzing anything. We are not evaluating the article or anything. We are just speaking about the article in general
+
+##### Background evidence
+
+Remember that the level of required background depends on your audience. Recall that we are pretending we are writing for students in WRDS150 that haven't read the article.
+
+##### Transitions
+
+They are still important in summaries. If we hit all the points without transitions then it will read like a list. Use sequential transitions, i.e. "next", "then", etc.
+
+#### Other considerations
+
+##### Citations
+
+Cite frequently; "anytime you move to a new idea or different section" (Connolly).
+
+It is not enough to cite once at the end of the paragraph. We needs page numbers for particular sections that we are talking about. If we reference a sentence on page 3 we need to cite that; if you fail to do so you may be risking 50% of this assignments grade.
+
+##### Quotes
+
+For this assignment regarding quotes "use only if there is no way to paraphrase" (Connolly). The only time we should use quotes is when the technical language of the article cannot be paraphrased.
+
+##### Signal Phrases
+
+Use them occasional, if we have talked about something a lot for example, we can use a signal phrase.
+
+##### Extra tips
+
+"Mention author, title, and main message near the beginning",
+"Use formal language", "Remember your audience" (Connolly).
+
+Don't use contractions in formal language; do not use slang or colloquial language.
