@@ -4,18 +4,18 @@
 
 - [WRDS 150B](#wrds-150b)
   - [Table of Contents](#table-of-contents)
-  - [Lecture 2 (Two) - Genre Theory - January 10 2024, 2024/01/10](#lecture-2-two---genre-theory---january-10-2024-20240110)
-  - [Lecture 3 (Three) - Paul Krugman "The depravity of climate change denial" - January 15 2024, 2024/01/15](#lecture-3-three---paul-krugman-the-depravity-of-climate-change-denial---january-15-2024-20240115)
+  - [Lecture 2 (Two) Genre Theory 2024/01/10](#lecture-2-two-genre-theory-20240110)
+  - [Lecture 3 (Three) Paul Krugman "The depravity of climate change denial" 2024/01/15](#lecture-3-three-paul-krugman-the-depravity-of-climate-change-denial-20240115)
     - [Reading for gist Breaking texts down](#reading-for-gist-breaking-texts-down)
     - [Evidence (or lack thereof)](#evidence-or-lack-thereof)
     - [Audience](#audience)
     - [Topic \& Background](#topic--background)
     - [Assumptions \& Focus](#assumptions--focus)
-  - [Lecture 4 (four) Creating and Introducing Arguments - January 17 2024 - 2024/01/17](#lecture-4-four-creating-and-introducing-arguments---january-17-2024---20240117)
+  - [Lecture 4 (four) Creating and Introducing Arguments 2024/01/17](#lecture-4-four-creating-and-introducing-arguments-20240117)
     - [On how we wrote in highschool](#on-how-we-wrote-in-highschool)
     - [Writing Now](#writing-now)
     - [Introducing arguments at the sentence level](#introducing-arguments-at-the-sentence-level)
-  - [Lecture 5 (Five) - January 22 2024 - 2024/01/24](#lecture-5-five---january-22-2024---20240124)
+  - [Lecture 5 (Five) 2024/01/24](#lecture-5-five-20240124)
     - [Stephan Zehr's Article](#stephan-zehrs-article)
   - [Friday Jan 26 Asynchronous Materials](#friday-jan-26-asynchronous-materials)
     - [Long Summaries](#long-summaries)
@@ -36,7 +36,7 @@
         - [Signal Phrases](#signal-phrases)
         - [Extra tips](#extra-tips)
 
-## Lecture 2 (Two) - Genre Theory - January 10 2024, 2024/01/10
+## Lecture 2 (Two) Genre Theory 2024/01/10
 
 Genre is complicated.
 
@@ -64,7 +64,7 @@ Instrument choice, banjo, vocal presentation (singing vs. rapping). What defines
 
 Billboard decided which genre it belonged in, it has specific economic goals, etc. It defines the awards, radio stations, etc.
 
-## Lecture 3 (Three) - Paul Krugman "The depravity of climate change denial" - January 15 2024, 2024/01/15
+## Lecture 3 (Three) Paul Krugman "The depravity of climate change denial" 2024/01/15
 
 Krugman's main argument is: "And denying science for profit, political advantage or ego satisfaction is not O.K.; when
 failure to act on the science may have terrible consequences, denial is, as I said, depraved." (Krugman 1)
@@ -135,7 +135,7 @@ The argument of this article isn't to argue that climate change is real, it's me
 
 **In academic context argument must match evidence!**
 
-## Lecture 4 (four) Creating and Introducing Arguments - January 17 2024 - 2024/01/17
+## Lecture 4 (four) Creating and Introducing Arguments 2024/01/17
 
 Note: Asynchronous materials
 
@@ -179,7 +179,7 @@ Three main ways:
   - Example: "But there are almost no good-faith climate-change deniers." (Krugman 22). Krugman is suggesting that there may be some good-faith climate change deniers. However, he's suggests that are very few of said people. But because he wants to acknowledge the possibility of exceptions he uses the word "almost"
   - Example: "Most accounts of new research involved novel means for measuring global warming or climate change". (Zehr 92). Here the limiting expression is "Most accounts".
 
-## Lecture 5 (Five) - January 22 2024 - 2024/01/24
+## Lecture 5 (Five) 2024/01/24
 
 ### Stephan Zehr's Article
 
