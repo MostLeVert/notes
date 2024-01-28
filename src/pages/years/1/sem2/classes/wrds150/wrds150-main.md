@@ -5,7 +5,7 @@
 - [WRDS 150B](#wrds-150b)
   - [Table of Contents](#table-of-contents)
   - [Lecture 2 (Two) Genre Theory 20240110](#lecture-2-two-genre-theory-20240110)
-  - [Lecture 3 (Three) Paul Krugman "The depravity of climate change denial" 20240115](#lecture-3-three-paul-krugman-the-depravity-of-climate-change-denial-20240115)
+  - [Lecture 3 (Three) Paul Krugman The depravity of climate change denial 20240115](#lecture-3-three-paul-krugman-the-depravity-of-climate-change-denial-20240115)
     - [Reading for gist Breaking texts down](#reading-for-gist-breaking-texts-down)
     - [Evidence (or lack thereof)](#evidence-or-lack-thereof)
     - [Audience](#audience)
@@ -64,7 +64,7 @@ Instrument choice, banjo, vocal presentation (singing vs. rapping). What defines
 
 Billboard decided which genre it belonged in, it has specific economic goals, etc. It defines the awards, radio stations, etc.
 
-## Lecture 3 (Three) Paul Krugman "The depravity of climate change denial" 20240115
+## Lecture 3 (Three) Paul Krugman The depravity of climate change denial 20240115
 
 Krugman's main argument is: "And denying science for profit, political advantage or ego satisfaction is not O.K.; when
 failure to act on the science may have terrible consequences, denial is, as I said, depraved." (Krugman 1)
