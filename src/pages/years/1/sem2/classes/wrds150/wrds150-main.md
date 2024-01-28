@@ -15,8 +15,12 @@
     - [On how we wrote in highschool](#on-how-we-wrote-in-highschool)
     - [Writing Now](#writing-now)
     - [Introducing arguments at the sentence level](#introducing-arguments-at-the-sentence-level)
-  - [Lecture 5 (Five) 20240124](#lecture-5-five-20240124)
-    - [Stephan Zehr's Article](#stephan-zehrs-article)
+  - [Lecture 5 (Five) Zehr 20240124](#lecture-5-five-zehr-20240124)
+    - [Summarizing](#summarizing)
+    - [Representative Arguments](#representative-arguments)
+      - [Representative Arguments (In General)](#representative-arguments-in-general)
+      - [How Zehr does it](#how-zehr-does-it)
+  - [On Exercise 1](#on-exercise-1)
   - [Friday Jan 26 Asynchronous Materials 20240126](#friday-jan-26-asynchronous-materials-20240126)
     - [Long Summaries](#long-summaries)
       - [Part of essay/article](#part-of-essayarticle)
@@ -179,11 +183,88 @@ Three main ways:
   - Example: "But there are almost no good-faith climate-change deniers." (Krugman 22). Krugman is suggesting that there may be some good-faith climate change deniers. However, he's suggests that are very few of said people. But because he wants to acknowledge the possibility of exceptions he uses the word "almost"
   - Example: "Most accounts of new research involved novel means for measuring global warming or climate change". (Zehr 92). Here the limiting expression is "Most accounts".
 
-## Lecture 5 (Five) 20240124
+## Lecture 5 (Five) Zehr 20240124
 
-### Stephan Zehr's Article
+### Summarizing
 
-See class notes
+Here is a paragraph that Zehr has written to make clear his arguments:
+
+> The argument can be summarized in four successive points: (1) Scientific uncertainty was
+>a highly salient theme in climate change articles; (2) Scientific uncertainty was constructed
+>through various, sometimes unintentional, processes, including representations of controversy,
+>new research topics, and an expanding problem domain; (3) Scientific uncertainty was managed
+>in the press such that science remained an authoritative knowledge provider for climate change.
+>An important part of this management involved the use of uncertainty in the construction
+>of boundaries between science and the public; (4) These boundaries, in turn, constructed a
+>“misinformed public” identity. This identity may itself be misinformed but, more importantly,
+>it may contribute to inaction among publics who are so represented. (Zehr 98).
+
+During your summary you must:
+
+Communicate these things to someone who hasn't read the article.
+
+Mention the 3 ways that uncertainty was managed.
+
+Touch on the ideas relating to the public and science, and their understanding of it: Zehr's main ideas about the public and its relationship to the climate change literature. Ex. The public is very diverse, many people know vast amounts on the subject, others know nothing.
+
+### Representative Arguments
+
+They are the central way Zehr presents evidence & analysis to support his argument.
+
+#### Representative Arguments (In General)
+
+- General Statement - Through representative examples, instead of going though each event, you find one event that describes the overall trend you notice.
+- Signal phrase: We need to signal that what follows is an example of what you're highlighting.
+- Provide the example
+- Tie it back into the larger context
+
+For example:
+
+**General Statement**: "Some apples are red."\
+**Signal Phrase**: "For example,"\
+**Example** "the apple I am eating right now is red."\
+**Tie to Larger Context**: "I have seen many apples throughout my life that are also red."
+
+#### How Zehr does it
+
+Ex.
+
+>Novelty was created in articles on global warming through the representation of a research\
+>project or method as a fresh and inventive means for resolving a key question.\
+>However, as this
+>research was described, more scientific uncertainty was constructed. That is, each new study
+>or technique was presented as important and novel precisely because it might answer hitherto
+>unanswered but significant questions. The extensive focus on new research implied that there
+>were many unanswered questions. Furthermore, scientists who were quoted in these articles
+>typically reconfirmed this state of scientific uncertainty. (Zehr 92).
+
+**Note**: furthermore is used when we are adding on to our general statement, what follows is an addition to his statement.
+
+In the following paragraph Zehr's first sentence summarizes the paragraph we just analyzed. The second sentence is a kind of signal phrase, showing that the referenced article was typical in his research, note the wording "was typical" (Zehr 92).
+
+When we are using representative examples we should have evidence and analysis together.
+
+In the following paragraph he moves toward talking about the general trend, note that small mistake that Zehr made here in omitting in depth analysis for the specific example before moving on.
+
+**Note**: The phrase "This format existed in many articles" (Zehr 92). Zehr should have linked this back to the specific example he just talked about. Then the tie between the evidence analysis and global trend is much smoother.
+
+"Then" is a transition word that is helpful during article summary. ex. "Zehr does this **then** that".
+
+In the first paragraph of section 4 is where Zehr ties back his example back to the global trend. Recall the example was coral bleaching, his tie back phrase is "Other examples that fit this pattern included".
+
+He ends this paragraph with a sentence summarizing his global argument.
+
+**Note**: Although his argument takes numerous paragraphs to setup, he is still following the general structured approach.
+
+Recognize that there is a trust between you and the academic author, the line of trust differs between fields. Note that even though Zehr doesn't explain each and ever paper and example he used; we can reasonably trust what he's saying because he is citing/referencing other articles. Zehr's reputation is on the line as if his linked articles do not agree with what he is saying he would be ruined. So it is reasonably safe to say that it can mostly be trusted. If you don't believe it though, just check the linked papers.
+
+## On Exercise 1
+
+Although no one in the class submitted an exercise containing summaries not varied from the original enough. Prof. made up an example, showing that some phrases were almost identical to the original, with only a few words changed.
+
+For the academic integrity test be extra sure that you are not committing bad things. If you cannot use quotation marks, then make sure you are using your own words.
+
+**Note**: You have many opportunities to have Prof. review your work such that you might get a higher grade. (Students who delay their work, or do not get it reviewed tend to score much lower on this assignment).
 
 ## Friday Jan 26 Asynchronous Materials 20240126
 
