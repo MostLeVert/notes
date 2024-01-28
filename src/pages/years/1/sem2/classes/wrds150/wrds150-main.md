@@ -17,7 +17,7 @@
     - [Introducing arguments at the sentence level](#introducing-arguments-at-the-sentence-level)
   - [Lecture 5 (Five) 20240124](#lecture-5-five-20240124)
     - [Stephan Zehr's Article](#stephan-zehrs-article)
-  - [Friday Jan 26 Asynchronous Materials 20240128](#friday-jan-26-asynchronous-materials-20240128)
+  - [Friday Jan 26 Asynchronous Materials 20240126](#friday-jan-26-asynchronous-materials-20240126)
     - [Long Summaries](#long-summaries)
       - [Part of essay/article](#part-of-essayarticle)
       - [Review article](#review-article)
@@ -185,7 +185,7 @@ Three main ways:
 
 See class notes
 
-## Friday Jan 26 Asynchronous Materials 20240128
+## Friday Jan 26 Asynchronous Materials 20240126
 
 ### Long Summaries
 
