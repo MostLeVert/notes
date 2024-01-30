@@ -20,7 +20,7 @@
     - [Representative Arguments](#representative-arguments)
       - [Representative Arguments (In General)](#representative-arguments-in-general)
       - [How Zehr does it](#how-zehr-does-it)
-  - [On Exercise 1](#on-exercise-1)
+    - [On Exercise 1](#on-exercise-1)
   - [Friday Jan 26 Asynchronous Materials 20240126](#friday-jan-26-asynchronous-materials-20240126)
     - [Long Summaries](#long-summaries)
       - [Part of essay/article](#part-of-essayarticle)
@@ -38,7 +38,8 @@
         - [Citations](#citations)
         - [Quotes](#quotes)
         - [Signal Phrases](#signal-phrases)
-        - [Extra tips](#extra-tips)
+        - [Extra Tips](#extra-tips)
+  - [Lecture 6 workshop 20240129](#lecture-6-workshop-20240129)
 
 ## Lecture 2 (Two) Genre Theory 20240110
 
@@ -258,7 +259,7 @@ He ends this paragraph with a sentence summarizing his global argument.
 
 Recognize that there is a trust between you and the academic author, the line of trust differs between fields. Note that even though Zehr doesn't explain each and ever paper and example he used; we can reasonably trust what he's saying because he is citing/referencing other articles. Zehr's reputation is on the line as if his linked articles do not agree with what he is saying he would be ruined. So it is reasonably safe to say that it can mostly be trusted. If you don't believe it though, just check the linked papers.
 
-## On Exercise 1
+### On Exercise 1
 
 Although no one in the class submitted an exercise containing summaries not varied from the original enough. Prof. made up an example, showing that some phrases were almost identical to the original, with only a few words changed.
 
@@ -349,9 +350,13 @@ For this assignment regarding quotes "use only if there is no way to paraphrase"
 
 Use them occasional, if we have talked about something a lot for example, we can use a signal phrase.
 
-##### Extra tips
+##### Extra Tips
 
 "Mention author, title, and main message near the beginning",
 "Use formal language", "Remember your audience" (Connolly).
 
 Don't use contractions in formal language; do not use slang or colloquial language.
+
+## Lecture 6 workshop 20240129
+
+Explain evidence with analysis

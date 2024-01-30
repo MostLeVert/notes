@@ -4,7 +4,7 @@
 
 - [BIOL 111](#biol-111)
   - [Table of Contents](#table-of-contents)
-  - [Lecture 3 (Three) - January 23 2024 - 2024/01/23](#lecture-3-three---january-23-2024---20240123)
+  - [Lecture 3 20240123](#lecture-3-20240123)
     - [Learning Objectives](#learning-objectives)
     - [Building Blocks of Life](#building-blocks-of-life)
       - [Carbon](#carbon)
@@ -16,7 +16,7 @@
         - [Nucleic Acid](#nucleic-acid)
         - [Protein](#protein)
     - [All together](#all-together)
-  - [Lecture 4 (Four) . January 25th 2024 . 2024/01/25](#lecture-4-four--january-25th-2024--20240125)
+  - [Lecture 4 20240125](#lecture-4-20240125)
     - [Learning Objectives lec4](#learning-objectives-lec4)
     - [Nucleic Acids](#nucleic-acids)
       - [Key points](#key-points)
@@ -31,8 +31,17 @@
       - [Proteins Vocabulary](#proteins-vocabulary)
       - [Proteins main](#proteins-main)
         - [Enzymes](#enzymes)
+  - [Lecture 5 Cellular Structure and Dynamics 20240130](#lecture-5-cellular-structure-and-dynamics-20240130)
+    - [The Cell](#the-cell)
+      - [Prokaryotes vs. Eukaryotes](#prokaryotes-vs-eukaryotes)
+      - [Biological Membranes](#biological-membranes)
+      - [Demonstrating Membrane fluidity](#demonstrating-membrane-fluidity)
+      - [The Plasma Membrane](#the-plasma-membrane)
+      - [Crossing the membrane](#crossing-the-membrane)
+        - [Diffusion](#diffusion)
+        - [Osmosis](#osmosis)
 
-## Lecture 3 (Three) - January 23 2024 - 2024/01/23
+## Lecture 3 20240123
 
 ### Learning Objectives
 
@@ -131,7 +140,7 @@ Proteins are very complex. They are polymers of various **amino acids**. Each am
 
 All these functions and acids, proteins, lipids, and their barriers, glucose and their chains for structure and energy. These all come together in a cell to give a function. These basic compounds MAY for spontaneously, however this is incredibly slow. However, living things produce ALL major biological molecules with extreme efficiency. "Life has contributed significantly to the types and amounts of organic compounds on Earth" (Wong).
 
-## Lecture 4 (Four) . January 25th 2024 . 2024/01/25
+## Lecture 4 20240125
 
 ### Learning Objectives lec4
 
@@ -250,7 +259,6 @@ Consider Palmitic acid (saturated fatty acid) with oxygen and mitochondria prese
 
 ### Proteins
 
-
 #### Key facts
 
 - Polymers of various amino acids.
@@ -324,7 +332,6 @@ Immunoglobulin has a specific shape that interacts with bad things to save your 
 
 ![ATP synthase](image-12.png)
 
-
 ![Clathrin](image-13.png)
 
 Enzymes need to be in specific shapes to help speed up chemical reactions essential for life.
@@ -334,3 +341,122 @@ Enzymes need to be in specific shapes to help speed up chemical reactions essent
 The proteins shape and function is determined by the chain of amino acids & side chains & the order of amino acid the _sequence_
 
 In covid-19 computing power was used to determine the way that proteins would fold given the sequence of amino acids.
+
+## Lecture 5 Cellular Structure and Dynamics 20240130
+
+### The Cell
+
+At a minimum, cells have 4 things.
+
+- Plasma Membrane
+- DNA
+- Cytoplasm
+- Ribosomes
+
+There are two very distinct kinds of cells on Earth.
+
+![Figure 1.9 from Concepts of Biology](image-15.png)
+
+There are essentially 3 domains of life: Bacteria, Archaea, Eukarya.
+
+All cells are thought to have evolved from LUCA 3.5 to 3.8 B years ago. (LUCA means Last Universal Common Ancestor)
+
+![LUCA](image-16.png)
+
+#### Prokaryotes vs. Eukaryotes
+
+Karyotes refers to a sort of kernel, the pro prefix means before; so, it's "before nucleus".
+
+#### Biological Membranes
+
+All life makes use of biological membranes
+
+These are very important in separating the outside world from the inside (plasma membrane)
+
+But things still need to get across membranes
+
+All biological membranes are selectively permeable.
+
+Semi-permeable, selective barriers
+
+Mostly made of phospholipids (lipids with phosphate groups) and proteins with highly specialized functions
+
+We consider biological membranes a “fluid mosaic”. We call it a mosaic because it is composed of many kinds of pieces and colors, etc., many components come together to form functional unit. It is in reference to the diversity of components (most of which are phospholipids). If a protein isn't fixed (some are) then it could move around within the membrane. This is important to the overall functioning of the cell.
+
+![Cell Membrane. Figure 3.18 Concepts of Biology](image-18.png)
+
+The majority of the membrane will be lipids (recall the water attraction and repulsion).
+
+Cholesterol: modulates the fluidity/flexibility of the membrane. It can do this because it fits in the space between the phospholipids. It can change the flexibility of the membrane. It will make it a bit more structurally sound.
+
+Proteins do many things in the cell wall. They channel materials through it, they can act as enzymes to speed up reactions, etc., they can respond to stimuli. They acn also be structural; attachment points for various things.
+
+Carbohydrates tend only to face outside of the cell because carbohydrates are more used as signalling molecules for the cell's neighbors. It helps other cells recognize the type of cell that it's attached to. Carbohydrates also have other specialized functions that may be covered it later biology courses.
+
+#### Demonstrating Membrane fluidity
+
+Imagine if we lased off a florescent coating from the water attracting heads of the membrane. This would be "bleaching". What takes place after the lasing as occurred: Imagine a drop of food coloring in water, it will dissipate throughout the membrane. This is called "FRAP: Fluorescence Recovery After Photobleaching.
+
+#### The Plasma Membrane
+
+The plasma membrane separates the outside world from the inside, but things still need to get across!
+
+What needs to go in and out of the cell:
+
+- Water
+- Waste,
+- etc.
+
+#### Crossing the membrane
+
+Gasses (e.g. Oxygen, Carbon Dioxide, Carbon Monoxide) and hydrophobic molecules diffuse freely across lipid bilayers.
+
+Small uncharged polar molecules diffuse moderately easily through the lipid bilayers.
+
+Diffusion of large uncharged polar molecules across lipid bilayers is minimal, and is difficult.
+
+Charged substances (ions) cannot diffuse across the lipid layer.
+
+Passive transport does not require energy input Large substances may still require a protein to server as channel or pore as pathway through the membrane.
+
+Movement is WITH a concentration gradient.
+
+Note that facilitated transport is in fact, passive.
+
+##### Diffusion
+
+Dissolved materials moving from areas of higher concentration to lower concentration
+
+##### Osmosis
+
+water moving from an area of lower solute concentration to higher solute concentration.
+
+Net water movement across a selecively permeable membrane toward area with higher solute concentration.
+
+Note that cells have a high solute concentration, so they have developed different strategies to handle osmosis
+
+##### Active Transportation Systems
+
+For substances that are too big, have electric charge; particles that cannot passively cross the membrane.
+
+Ex. Protons are pumped against a concentration gradient. ATP will under go hydrolysis -- it break down and transfer energy to the protein such that the proton can be transported.
+
+Possible trick question: NET transport; a freely diffusable molecule may exhibit movement, but if its concentration on either side of the membrane is equal then there will be NO NET movement. 
+
+#### Endocytosis
+
+Endo meaning "inside" and -Cyto meaning "something to do with cells"
+
+Things that are too large (like prey bacteria) for membrane proteins must be endocytosed -- This is allowed by a flexible membrane.
+
+Endocytosis will occure in the 10-100 micrometer range of size.
+
+Some cells have both walls and an ability to undergo phagocytosis; this is possible through an area of the cell wall that contains a more flexible section.
+
+#### Exocytosis
+
+- Essentialy the reverse of endocytosis
+
+- Vesicles fuse with the plasma membrane and release (secrete) its contents
+
+
