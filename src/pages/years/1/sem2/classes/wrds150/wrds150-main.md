@@ -40,6 +40,13 @@
         - [Signal Phrases](#signal-phrases)
         - [Extra Tips](#extra-tips)
   - [Lecture 6 workshop 20240129](#lecture-6-workshop-20240129)
+  - [L7 Research Approaches](#l7-research-approaches)
+    - [Primary vs. Secondary Research](#primary-vs-secondary-research)
+    - [Quantitative vs. Qualitative](#quantitative-vs-qualitative)
+    - [Finding \& Reporting vs. Interpreting](#finding--reporting-vs-interpreting)
+    - [Subject Position](#subject-position)
+    - [Evaluating Scholarly Sources](#evaluating-scholarly-sources)
+    - [The Final Essay](#the-final-essay)
 
 ## Lecture 2 (Two) Genre Theory 20240110
 
@@ -359,4 +366,106 @@ Don't use contractions in formal language; do not use slang or colloquial langua
 
 ## Lecture 6 workshop 20240129
 
-Explain evidence with analysis
+Workshop - No notes.
+
+## L7 Research Approaches
+
+### Primary vs. Secondary Research
+
+Different disciplines have differing ideas on how these differ. In many sciences, this might refer to data that you collect in a novel way. In our context (literature) primary sources are:
+
+- Novels, poems, plays, short stories, letters, diaries, manuscripts, autobiographies, interviews, personal accounts.
+
+In literature secondary sources (What others have already written).
+
+- Journal articles, reviews, biographies, critical, books about writers and their works.
+
+In social science it may be as follows:
+
+Primary:
+
+- Psychological tests; clinical case reports; surveys; reports of social workers, psychiatrists, etc,; interviews; oral histories; statistical data; field notes; fossils; photographs.
+
+Secondary:
+
+- Commentary and evaluations in reports, documents, journal articles, and books.
+
+In the sciences;
+
+Primary:
+
+- Experiments, discoveries, test patterns, field notes, specimens, maps, geological surveys, patents, schematic drawings, technical reports, models.
+
+Secondary:
+
+- Interpretations and discussions of test data, found in journals and books.
+
+The line between primary and secondary sources/research can be fuzzy; this occurs more in the non-scientific disciplines.
+
+In Krugman's argument, the book _Madhouse Effect_ is a secondary source, and if we stretch a bit then the report mentioned at the end may be a primary research.
+
+In Zehr's article; many different articles are referenced, his evidence comes from articles.
+
+### Quantitative vs. Qualitative
+
+In some disciplines authors may try and blend these two together; but in general, science is more quantitative and socials sciences/literature etc., are more qualitative.
+
+Blending can occur, re: paper on the start of contemporary literature.
+
+Krugman focuses mostly on qualitative. Zehr however focuses on qualitative as well; it is a language analysis. It is not data, or stats, or maths. Zehr uses lots of words like "many", "most", etc.
+
+### Finding & Reporting vs. Interpreting
+
+There are no academic articles that have only one or the other; however, most often there is an emphasis on one or the other. In sciences we may see reporting articles on new data. In humanities this is less often the case; if Hamlet is being written about, we needn't write about what it is about, only a novel interpreting is really useful. This isn't to say that there isn't new data in humanities, e.g. if someone found a new manuscript.
+
+Science is not entirely objective; ex. someone arguing the use for their data (Subjective).
+
+Krugman's piece is almost entirely interpreting. Zehr is more interpreting; but he also does lots of reporting. Is is far more balanced than Krugman's article.
+
+### Subject Position
+
+Make sure you understand this question **very clearly**.
+
+Note that is is not the position an author takes on a subject; it is HOW the author positions HIMSELF as a subject. This can take the form of "I argue", the other end is talking about _who they are_, e.g. gender, race, educations. The reason someone would talk about these things is due to the fact that these may be variables in your research; these are the factors that might influence how you do research; you are a variable in your own research. Who you are effects the things you see but it also effects how people will react to you. This is why we must acknowledge this type of variable in the research.
+
+Krugman uses the low end of subject positioning through grammar "I have", "I argue".
+
+Zehr, uses very little subject positioning.
+
+### Evaluating Scholarly Sources
+
+Note: there is a lecture video & a quiz on this.
+
+Note: This course will have strict rules; however, in the "real world" this definition may become more fuzzy.
+
+- Source: Academic? Peer Reviewed?
+  - There are two types of scholarly sources; if the publisher is academic then it qualifies. For journal articles it must be peer reviewed. In the humanities peer review it goes to a desk editor (An underpaid overworked grad student). They will give it the once over; and see if it's worth publishing. Then they will send it to 3 experts. Then you will get categorized, "Published as is with minor corrections" "published as in with large corrections", "Not published at all". In science this is condensed so sometimes mistakes make it through the peer review process. For essays we need minimum 6 scholarly sources (3 must be found on your own) that meet these qualifications.
+- Author: Qualifications and Expertise
+  - Re: the lobster mating psychology guy. Look at the degree, the past publications, etc. Make sure we are looking at the right author. Note that need that you must be sure you are looking at the right author.
+- Response: Cited? Accepted?
+  - Impact factor; the degree to which people use your work. Citations may talk about how WRONG or BAD an article is. This doesn't mean that the article is accepted.
+
+Original Research or Argument; no review articles (Find the original article that was referenced); no dissertations (A good dissertation is a finished one (meaning it may contain errors, etc).  They are not published, nor peer reviewed).
+
+Krugman isn't an academic source because: He's an economist not a political scientists. But it's easier to just realize that the NYT isn't an academic source. Krugman's opinion piece isn't peer reviewed or anything.
+
+Zehr is, of course, an academic source.
+
+Note: conflict's of interests are generally financial; stocks, funding, etc., conflicts of interesting doesn't mean that your data is necessarily bad; it just means the opportunity is there.
+
+### The Final Essay
+
+5 prompts to choose from:
+
+- How are science and engineering articles different from humanities and social science articles? how are they the same. (Students in the past have wrote about article that are in their preferred fields).
+- How has climate change denialism changed the past 20 years?
+- What are the important elements to consider when studying climate change denialism.
+- What should scholars and academics do bout climate change denialism how should they study it.
+- How does climate change denialism compare to other forms of science denialism.
+
+Finding research/exploring for the finale exam. e.g. In the case of "How has social media changed climate change denialism"
+
+- Look for: Articles on climate change denialism and social media.
+- Look for: Articles on social media and political discussion or science denialism more broadly.
+- Articles on climate change denialism more generally.
+- Examples of climate change denialism on social media (Independent Research). Note that you should apply the principles of secondary research.
