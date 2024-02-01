@@ -40,6 +40,33 @@
       - [Crossing the membrane](#crossing-the-membrane)
         - [Diffusion](#diffusion)
         - [Osmosis](#osmosis)
+        - [Active Transportation Systems](#active-transportation-systems)
+      - [Endocytosis](#endocytosis)
+      - [Exocytosis](#exocytosis)
+  - [L6 Cells](#l6-cells)
+    - [L6 Cells Learning Objectives](#l6-cells-learning-objectives)
+    - [Organelles](#organelles)
+    - [The Cytoskeleton](#the-cytoskeleton)
+      - [Major Functions](#major-functions)
+    - [The Endomembrane System](#the-endomembrane-system)
+    - [The Nucleus](#the-nucleus)
+      - [The Nucleus Major Functions](#the-nucleus-major-functions)
+    - [The Endoplasmic Reticulum](#the-endoplasmic-reticulum)
+    - [Endoplasmic Reticulum Major Functions](#endoplasmic-reticulum-major-functions)
+    - [The Golgi Apparatus](#the-golgi-apparatus)
+      - [Golgi Apparatus Major Functions](#golgi-apparatus-major-functions)
+    - [Lysosomes](#lysosomes)
+      - [Lysosomes Major Functions](#lysosomes-major-functions)
+    - [Vesicles and Vacuoles](#vesicles-and-vacuoles)
+      - [Vesicles and Vacuoles Major Functions](#vesicles-and-vacuoles-major-functions)
+    - [Mitochondria](#mitochondria)
+      - [Mitochondria Major Functions](#mitochondria-major-functions)
+    - [Chloroplasts](#chloroplasts)
+      - [Chloroplasts Major Functions](#chloroplasts-major-functions)
+      - [Carbon Fixation and photosynthesis](#carbon-fixation-and-photosynthesis)
+      - [Mitochondria \& Chloroplasts](#mitochondria--chloroplasts)
+        - [Endosymbiotic Theory](#endosymbiotic-theory)
+          - [Evidence for Endosymbiotic Theory](#evidence-for-endosymbiotic-theory)
 
 ## Lecture 3 20240123
 
@@ -441,7 +468,7 @@ For substances that are too big, have electric charge; particles that cannot pas
 
 Ex. Protons are pumped against a concentration gradient. ATP will under go hydrolysis -- it break down and transfer energy to the protein such that the proton can be transported.
 
-Possible trick question: NET transport; a freely diffusable molecule may exhibit movement, but if its concentration on either side of the membrane is equal then there will be NO NET movement. 
+Possible trick question: NET transport; a freely diffusible molecule may exhibit movement, but if its concentration on either side of the membrane is equal then there will be NO NET movement.
 
 #### Endocytosis
 
@@ -459,4 +486,151 @@ Some cells have both walls and an ability to undergo phagocytosis; this is possi
 
 - Vesicles fuse with the plasma membrane and release (secrete) its contents
 
+## L6 Cells
 
+### L6 Cells Learning Objectives
+
+- Depict a generalized prokaryotic cell
+- Compare and contrast the basic features of prokaryotic and eukaryotic cells
+- Describe the general features of eukaryotic cells and their functions
+- Compare and contrast a generalized animal and plant cell
+- Distinguish between mitochondria and plastids
+- Defend the endosymbiotic theory with supporting evidence
+
+### Organelles
+
+Eukaryotes especially have a large variety of organelles within their cells. Prokaryotes are like a warehouse; eukaryotes are more like a room with cubicles.
+
+Cells may have many differing numbers of various organelles; this sort of goes against the textbook diagrams of the cells that may oversimplify for the learning process.
+
+Consider a sperm cell which is a nucleus with a small amount of mitochondria to power it; but fat cells are extremely basic; this is the same for red blood cells, they do not have much of anything besides oxygen in them.
+
+All this is to say that we must consider the differences between various cells. We should be clear that textbook representations are not accurate for all cells; they are a general guide for learning.
+
+### The Cytoskeleton
+
+Eukaryotes have a complex network of pieces making up the cytoskeleton; prokaryotes have only cytoskeletal proteins.
+
+#### Major Functions
+
+- Structural and mechanical support for the cell
+
+### The Endomembrane System
+
+Eukaryotes have an extensive network of internal membranes we call the endomembrane system.
+
+![Electron microscope image of cytoplasm](image-19.png)
+
+### The Nucleus
+
+The endomembrane system's membranes connect with the nuclear envelope, which surround the nucleus.
+
+Muscle Tissue has multiple nuclei; skeletal muscle can have hundreds of nuclei.
+Red blood cells do not have nucleus; they are oxygen bags (LOL).
+
+#### The Nucleus Major Functions
+
+- Storage of genetic information
+- Location where gene expression beings
+- Ribosomal subunits are assembled here
+
+### The Endoplasmic Reticulum
+
+Moving outwards from the nuclear envelope, the membranes of the endoplasmic reticulum (ER) form an extensive network that reaches the edges of the cell.
+
+![An endoplasmic Reticulum Diagram](image-20.png)
+
+### Endoplasmic Reticulum Major Functions
+
+- Material circulate within this network
+- Protein productions/modification (RER)
+- Lipid synthesis (mostly SER).
+- Synthesis of other biological molecules
+
+![Detailed image of endoplasmic reticulum](image-21.png)
+
+The RER is rough due to being covered in ribosomes
+
+### The Golgi Apparatus
+
+A factory in which proteins received from the ER are further processed and sorted for transport to their eventual destinations: lysosomes, the plasma membrane, or secretion
+
+#### Golgi Apparatus Major Functions
+
+- "Sorting center" of the cells
+  - Materials could be leaving cell
+  - or to the lysosome
+- More chemical modifications
+
+### Lysosomes
+
+Acidic and violent, lysosomes digest ingested or wornout substances to recycle the components
+
+Membrane-enclosed organelles that contain an array of enzymes capable of breaking down all types of biological polymers—proteins, nucleic acids, carbohydrates, and lipids.
+
+Note: Plant cells aren't thought of has having lysosomes
+
+#### Lysosomes Major Functions
+
+- Enzymes inside digest biological molecules
+- Digests ingested prey
+- Breaks down cellular components
+
+### Vesicles and Vacuoles
+
+Various other membrane-bound components move around the cell, such as vesicles & vacuoles.
+
+Membrane-bound sacs that function in storage and transport.
+
+#### Vesicles and Vacuoles Major Functions
+
+- Movement of substances from one part of the cell to another
+  - Or to the plasma membrane
+- Areas where substances are stored (Generic storage)
+- "Vesicle" reserved for smaller structures, "vacuole" for larger
+
+### Mitochondria
+
+Powerhouse of the cell
+
+Mitochondria are membrane-bound cell organelles (mitochondrion, singular) that generate most of the chemical energy needed to power the cell's biochemical reactions.
+
+![Detailed image of a mitochondria](image-22.png)
+
+#### Mitochondria Major Functions
+
+- ATP production through oxidation of products from the breakdown of glucose and lipids
+
+### Chloroplasts
+
+Using the sun, the **Double-Membraned** chloroplasts generate lots of ATP for ... itself to make organic carbon.
+
+An organelle within the cells of plants and certain algae that is the site of photosynthesis, which is the process by which energy from the Sun is converted into chemical energy for growth.
+
+#### Chloroplasts Major Functions
+
+- Photosynthesis
+- ATP Production via light energy
+  - ATP remains within the chloroplast
+- ATP used to produce pieces of carbohydrates
+- Productions of specialized things
+
+#### Carbon Fixation and photosynthesis
+
+It takes a lot of energy to convert carbon dioxide into something biologically relevant (Carbon fixation).
+
+#### Mitochondria & Chloroplasts
+
+Mitochondria and chloroplasts are heavily involved in energy production, and their structures and origins set them apart from the endomembrane system! How did eukaryotes get these organelles?
+
+##### Endosymbiotic Theory
+
+The cytoskeleton and endocytosis allowed for the acquisition of two very important eukaryotic organelles, mitochondria and plastids (of which chloroplasts is one type). Imagine a eukaryote eating bacteria (as food). But what if the food never got digested and somehow escaped into the eukaryote’s cytoplasm? What was the food like?
+
+The establishment of mitochondria and chloroplasts opened up new lifestyles for eukaryotes, and brought photosynthesis into this domain of life.
+
+Cell still has most control over the mitochondria; however, there are disease caused by a broken mitochondrial system.
+
+###### Evidence for Endosymbiotic Theory
+
+Mitochondria and chloroplasts really looked like (and even divide like) bacteria. They also divide independently of its host cell. These organelles maintain their a genome of their own DNA.
