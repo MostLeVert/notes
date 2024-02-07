@@ -47,6 +47,11 @@
     - [Subject Position](#subject-position)
     - [Evaluating Scholarly Sources](#evaluating-scholarly-sources)
     - [The Final Essay](#the-final-essay)
+  - [Lecture L8 Harrison](#lecture-l8-harrison)
+    - [Electoral Disincentive](#electoral-disincentive)
+    - [Weak Party Discipline](#weak-party-discipline)
+      - [South Park Analogy](#south-park-analogy)
+    - [Separation of Power](#separation-of-power)
 
 ## Lecture 2 (Two) Genre Theory 20240110
 
@@ -469,3 +474,25 @@ Finding research/exploring for the finale exam. e.g. In the case of "How has soc
 - Look for: Articles on social media and political discussion or science denialism more broadly.
 - Articles on climate change denialism more generally.
 - Examples of climate change denialism on social media (Independent Research). Note that you should apply the principles of secondary research.
+
+## Lecture L8 Harrison
+
+She yaps incessantly. Separation of powers between the states; states have quite some autonomy.
+
+### Electoral Disincentive
+
+The things that decrease you odds of being elected.
+
+Think about it as the difference between reward and punishment. If you have a pet or a child you may create an incentive by creating a reward. If you punish them for something, that is a disincentive. In a politics a politician has a incentive to do things to get elected, but they also have a disincentive. Consider funding that has the condition of you not supporting climate change policy.
+
+### Weak Party Discipline
+
+Someone wouldn't be voted out for voting against their party. In Canada there is a punishment for voting against your party. In the USA if a person votes against their party there is nothing wrong with that. In Canada we have "party accountability".
+
+#### South Park Analogy
+
+It creates too extremes to create a middle. Eventually you will realize the center that is created leans toward the right. They use the crazy to make themselves appear more reasonable. This is what the lack of accountability does for a person/party.
+
+### Separation of Power
+
+The house the congress the senate all work independently, but they all must agree for a policy or piece of legislation to be passed. There are countless. In Canada the senate makes sure that any legislation doesn't break anything in the charter of fundamental rights.

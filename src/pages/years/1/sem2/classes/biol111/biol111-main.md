@@ -67,6 +67,14 @@
       - [Mitochondria \& Chloroplasts](#mitochondria--chloroplasts)
         - [Endosymbiotic Theory](#endosymbiotic-theory)
           - [Evidence for Endosymbiotic Theory](#evidence-for-endosymbiotic-theory)
+  - [L7 The Genetic Basis of Life](#l7-the-genetic-basis-of-life)
+    - [DNA Replication](#dna-replication)
+    - [The Central Dogma of Molecular Biology](#the-central-dogma-of-molecular-biology)
+      - [Anatomy of a Gene](#anatomy-of-a-gene)
+      - [Transcription](#transcription)
+        - [Initiation](#initiation)
+        - [Elongation](#elongation)
+        - [Termination](#termination)
 
 ## Lecture 3 20240123
 
@@ -634,3 +642,101 @@ Cell still has most control over the mitochondria; however, there are disease ca
 ###### Evidence for Endosymbiotic Theory
 
 Mitochondria and chloroplasts really looked like (and even divide like) bacteria. They also divide independently of its host cell. These organelles maintain their a genome of their own DNA.
+
+## L7 The Genetic Basis of Life
+
+Genome = all the genetic materials in an organism passed from parent offspring
+Gene = a hereditary unit passed from parent to offspring
+
+- A segment of a genome that is transcribed into functional RNA
+
+### DNA Replication
+
+Before cells divide, its genome needs to be faithfully replicated so that one copy can be passed into each of the progeny cells.
+
+Consider:
+
+- What does the structure of a double-stranded molecule of DNA look like? How is it held together?
+- To where are the nucleotides added to a DNA molecule
+
+![Molecule of DNA as sequence of letters](image-23.png)
+
+The steps to take to complete a replication.
+
+- We need to unwind the DNA
+
+1 in 100000 nucleotides are added in error.
+
+Don't worry -- DNA pol has proofreading abilities to stop replication anf ix the error before continuing!
+_But some errors still slip through_
+
+Humans have around 20,000 genes; in our genomes. They all end up getting interpreted by the various components and complexes in our cells. Genes are:
+
+- Units of heredity
+- Segments of DNA
+- transcribed into RNA
+- if mRNA, then translated into protein.
+
+Recall RNA uses ribose, while DNA uses deoxyribose; making DNA much more stable than RNA, RNA also uses uracil (U), while DNA uses Thymine (T).
+
+### The Central Dogma of Molecular Biology
+
+That which links together DNA, RNA and proteins, as well as the flow of genetic information in **ALL** life.
+
+![DNA -> RNA -> PROTEIN](image-24.png)
+
+Information from one gets passed to the other; the order of the nucleotides. DNA is a permanent store of information, then RNA is a temporary relay of the information, and protein is the interpretation of the information. Key here is the realization that we are working in information. Everything is information, the world is information, a state of that which is not in the purest form of mean energy that is, entropy is a still a process which can execute in it of itself.
+
+DNA -> RNA is "transcription"
+RNA -> Protein is "translation"
+
+We can think of DNA (Genome) as a cookbook, with RNA being a part of the genome; a recipe copied from the cookbook; translation would be the same as cooking the recipe.
+
+There are differences, but the order and direction of information flow is the same for bacteria and eukaryotes.
+
+#### Anatomy of a Gene
+
+All genes include some number of regulatory sequences.
+
+Terminators are regions where RNA polymerases detach to end transcription.
+
+Genes have directionality on the genome.
+
+The promoter is usually "upstream" of the coding region, while the terminator is "downstream"
+
+Genes can run in either direction on a chromosome
+
+Regardless of the type of gene and the resulting gene product, the first step to gene expression is transcription this segment of DNA will be transcribed to RNA.
+
+#### Transcription
+
+1. Initiation of transcription
+2. Extension/elongation of RNA by RNA polymerase
+3. Termination
+
+##### Initiation
+
+- Transcription starts at transcription start (initiation) site
+  - This is where the first nucleotide of the RNA strand is recruited
+- Promoters contain sequences the RNA polymerase complex recognizes
+  - Its specific sequence and direction ensure that transcription occurs in the proper direction, so that the fundamental sequences are actually in the resulting RNA
+- Other upstream regulatory sequences may be present
+  - Enhancers/activators increase frequency of transcription of that gene
+  - Regressors/inhibitors decrease frequency of transcription of that gene
+
+Eukaryotic transcription complex
+
+RNA polymerase binds to the promoter region and forms a giant complex with other proteins that bind to regulatory regions like enhancers.
+
+##### Elongation
+
+The next nucleotide polymerase adds is complementary to and base pairs with the next nucleotide on the template strand.
+
+![Elongation process diagram](image-25.png)
+
+##### Termination
+
+All RNA Pol will do is keep adding nucleotides unless something makes it stop/terminate
+
+The terminator contains a sequence that results in the end in the end of transcription. This is mediated by another protein.
+
