@@ -75,6 +75,20 @@
         - [Initiation](#initiation)
         - [Elongation](#elongation)
         - [Termination](#termination)
+  - [L8](#l8)
+    - [L8 Learning Objectives](#l8-learning-objectives)
+    - [L8 Transcript Functions](#l8-transcript-functions)
+      - [L8 Transcript Functions eukaryotes](#l8-transcript-functions-eukaryotes)
+      - [L8 Transcript Functions prokaryotes](#l8-transcript-functions-prokaryotes)
+    - [L8 Translation](#l8-translation)
+      - [L8 Translation Initiation](#l8-translation-initiation)
+      - [L8 Translation Elongation](#l8-translation-elongation)
+      - [L8 Translation Reading Frames](#l8-translation-reading-frames)
+      - [L8 Translation Termination](#l8-translation-termination)
+    - [L8 mRNA \& translation](#l8-mrna--translation)
+    - [L8 Ribosomes, rRNA and translation](#l8-ribosomes-rrna-and-translation)
+    - [L8 tRNA and translation](#l8-trna-and-translation)
+    - [L8 The Universal Genetic Code](#l8-the-universal-genetic-code)
 
 ## Lecture 3 20240123
 
@@ -740,3 +754,134 @@ All RNA Pol will do is keep adding nucleotides unless something makes it stop/te
 
 The terminator contains a sequence that results in the end in the end of transcription. This is mediated by another protein.
 
+## L8
+
+### L8 Learning Objectives
+
+- Functionally differentiate between mRNA, rRNA, and tRNA
+- Describe the concept of the universal genetic code with respect to translation, codons, and tRNA function
+- Describe briefly the steps involved in translation
+- Use the codon table to determine peptide sequences from mRNA
+- Explain what is meant by a degenerate genetic code
+- Connect the effects of mutations to larger scale functional
+changes
+
+### L8 Transcript Functions
+
+The content of mRNA is different between prokaryotes and eukaryotes.
+
+#### L8 Transcript Functions eukaryotes
+
+mRNA usually represent a single gene, and codes for a single product (one coding sequence).
+
+#### L8 Transcript Functions prokaryotes
+
+mRNA carries a series of functionally-related genes (an "operon") that code for multiple products (multiple coding sequences).
+
+### L8 Translation
+
+RNA -> Protein
+
+This is the process by which mRNA are translated into functional proteins.
+
+- The sequence information represented in the mRNA transcript is now "decoded" to represent any possible ammino acid.
+
+1. Initiation
+2. Elongation
+3. Termination
+
+#### L8 Translation Initiation
+
+Translation initiation in eukaryotes starts with tRNA and small ribosomal subunit recruitment by initiation factors at the 5' cap.
+
+Then the complex starts scanning for start codon AUG, in the 5' to 3' direction.
+
+Once the start codon (AUG) is detected, the large ribosome unit attaches with the first tRNA in the P (peptidyl) site.
+
+Beginning synthesis at the start codon establishes the reading frame.
+
+#### L8 Translation Elongation
+
+Next, the second tRNA enters the ribosome at the A (aminoacyl) site, and the first bond that is is made links the C-terminus of methionine (Met) to the N-Terminus of the next amino acid (in this example, valine or Val).
+
+The entire complex moves toward the 3' end of the mRNA by exactly 1 codon
+
+- Codons do not overlap!
+- The first tRNA moves into the E (exit) site and is ejected
+- The second tRNA moves into the P site, and the next tRNA enters the A site (and the process repeats).
+
+#### L8 Translation Reading Frames
+
+The consequence of having the code in sets of three bases is that there exists three possible reading frames.
+
+![Reading Frame](image-26.png)
+
+Each of these reading frames would produce a different protein!
+
+The ribosome uses the reading frame established by the start codon.
+
+**The reading frame is critical for correct protein synthesis!**
+
+Consider the following uses three-letter English words:
+
+_THEBIGBOYSAWTHEBADMANRUN_ If we start with "THE", it has meaning: "The big boy saw the bad man run."
+
+if we shift our reading by frame by just adding a letter to the beginning, you get something that makes no sense. (Frameshift is actually used to describe this kind of mutation!)
+
+_XTHEBIGBOYSSAWTHEBADMANRUN_ Now means: "Xth ebi gbo ysa wth eba dma nru n" (which makes no sense)
+
+#### L8 Translation Termination
+
+Eventually a stop codon (UGA, UAA, UAG) is reached, an amino acid chain gets cut off the tRNA in the P site and everything disassembles.
+
+A release factor will be brought meaning its time to stop, everything will detach and disassemble, the subunits will come apart and go away to go be used again.
+
+The release factor is a protein.
+
+### L8 mRNA & translation
+
+- Messenger RNA (mRNA) acts as a template for chaining together animo acids in a specific sequence
+- The information within the coding sequence ar divided into codons, which are "words" made of 3 nucleotides each
+  - Ex: AUG, CCG, AAA, CCC, UAA
+  
+### L8 Ribosomes, rRNA and translation
+
+Ribosomes are protein synthesis machines!
+
+- Made of proteins and ribosomal RNAs (rRNAs)
+- rRNA acts like an enzyme
+- Physically links amino acids together
+- Two components: small & large subunit
+- Large subunit contains binding sites for tRNAs
+
+### L8 tRNA and translation
+
+- RNA molecules that carry amino acids to the ribosome
+- tRNAs fold to form a specific structure
+- tRNAs have specific anticodons and hold specific amino acids
+- The anticodon is a three nucleotide sequence on a tRNA molecule that base pairs with the codons in an mRNA
+  - Pay attention to the directionality of the codon and anticodon!
+- Each amino acid corresponds with a specific codon via its anticodon
+
+### L8 The Universal Genetic Code
+
+The universal genetic code summarizes all 64 possible codons and their meaning in protein synthesis.
+
+All three domains of life, plus viruses, use the universal genetic code (Some rare lineages and some mitochondria (including ours) have SMALL changes to the code). This has significant implications!
+
+- The provides strong evidence that life arose just once.
+- Consider what this means if we take genes from one species and place it in another! (We will discuss this more later).
+
+![The universal genetic codon table](image-27.png).
+
+Codons - 3 letter codes in mRNA; $4*4*4=64$ codons.
+
+61 of which specify amino acids; 3 are stop codons that will stop protein synthesis.
+
+More than one codon can code for the same amino acid.
+
+This is why the genetic code is termed "degenerate" or "redundant"
+
+This also means that translation cannot occur in reverse. Sequence information can only flow from RNA to protein.
+
+This is a table of codons. These are written 5' to 3' and represent the triplets in mRNA. 

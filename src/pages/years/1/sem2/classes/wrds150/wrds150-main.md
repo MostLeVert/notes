@@ -52,6 +52,10 @@
     - [Weak Party Discipline](#weak-party-discipline)
       - [South Park Analogy](#south-park-analogy)
     - [Separation of Power](#separation-of-power)
+  - [WK5 Feb7 L2 Harrison Continued](#wk5-feb7-l2-harrison-continued)
+    - [WK5L2 Argument](#wk5l2-argument)
+    - [WK5L2 Using Evidence to Construct an Argument](#wk5l2-using-evidence-to-construct-an-argument)
+    - [WK5L2 Integrating Quotes](#wk5l2-integrating-quotes)
 
 ## Lecture 2 (Two) Genre Theory 20240110
 
@@ -496,3 +500,38 @@ It creates too extremes to create a middle. Eventually you will realize the cent
 ### Separation of Power
 
 The house the congress the senate all work independently, but they all must agree for a policy or piece of legislation to be passed. There are countless. In Canada the senate makes sure that any legislation doesn't break anything in the charter of fundamental rights.
+
+## WK5 Feb7 L2 Harrison Continued
+
+### WK5L2 Argument
+
+"However, while clearly a significant part of the problem, to date the United States has not been part of the solution."
+
+We setup a problem that we want to understand.
+
+### WK5L2 Using Evidence to Construct an Argument
+
+"If there are enhanced electoral disincentives, why would a politician support climate change legislation?"
+
+Note: It is very, extremely, hard to answer these broad general question. Even Harrison didn't answer it, she rather specified the question to:
+
+"If there are enhanced electoral disincentives, why would AL Gore and Bill Clinton advocate for the kyoto protocol?"
+
+Resting on the idea "A causal belief that climate change is both real and caused by human activities and a principled belief that his or her country has a responsibility to help mitigate the problem".
+
+Vice president Gore's values to a large degree explain the United States' original consent to the Kyoto protocol in the face of significant political obstacles. (93, Political science and prediction: What's next for U.S. Climate Change Policy? Review of Policy Research 24 (1):1-27)
+
+### WK5L2 Integrating Quotes
+
+The science was unproven reductions could be economically rouens. She does a transition "In Response", then (Harrison) does some things in terms of writing in some stuff that comes from later in Carter's Paper. Then she has a clause which is partially a summary of what carter says; but partly a summary of what companies are doing. Then she gets into what they are arguing. The actual arguments must be quoted directly because Carter has already said his arguments in a very clear way. She later quotes Gary Bryner; saying " Gary Bryner notes that in the United States "cheap energy is a widely help olitical mantra that causes politicians and citizens alike to fear policies on climate change or any other issue that might threaten to raise energy prices. it is not always relevant to mention everything about an author,. The choice of what is relevant or not is up to the user.
+
+From page 70. "In 2007 members of the US Climate Action Partnership, including environmental groups Environmental Defense Fund and the Natural Resources Defense Council ..." This comes from the website which outlines the goals of th organization. However, they don't list the members. Harrison however, provides the date, and the people/companies, etc, involved in the partnership.If we combine two sources in MLA we usually because two articles come to the conclusion. Ex. "This is what studies found (citation, citation, etc.).
+
+> The Arrival in Kyoto of Vice President Al Gore and his direction to the US delegation "To show increased negotiating flexibility" was critical to break the impasse between the negotiating blocs. (80).
+
+Why does Harrison not quote the article because the paper that Harrison citied is where the idea that was expressed within the news article impacted. The arrival in Kyoto by President... is the setup, and "his" and "direction to the US delegation is further setup, resulting in the quote "to show increased negotiating flexibility" which then effect is analyses her "Was critical to breaking the impasse betweens the negotiating blocs".  We don't know. Harrison saves a bit of room; but this isn't important, the important bit it he acknowledgement of where the idea came from, that is that article that quoted the newspaper article.
+
+note: this isn't a huge part of the course, but there is one section on the final essay rubric, which analyzes how well you integrated quotes.
+
+Hedging as in finance.
+
