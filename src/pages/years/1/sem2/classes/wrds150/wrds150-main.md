@@ -56,6 +56,16 @@
     - [WK5L2 Argument](#wk5l2-argument)
     - [WK5L2 Using Evidence to Construct an Argument](#wk5l2-using-evidence-to-construct-an-argument)
     - [WK5L2 Integrating Quotes](#wk5l2-integrating-quotes)
+  - [Lecture L9 Proposals](#lecture-l9-proposals)
+    - [Attention Getter](#attention-getter)
+    - [Summary of Existing Work](#summary-of-existing-work)
+    - [The Gap or Knowledge Deficit](#the-gap-or-knowledge-deficit)
+    - [Methodology](#methodology)
+    - [Value](#value)
+    - [Examples](#examples)
+      - [IPV Example](#ipv-example)
+      - [Contrived Example](#contrived-example)
+      - [Megan Fox Example](#megan-fox-example)
 
 ## Lecture 2 (Two) Genre Theory 20240110
 
@@ -535,3 +545,60 @@ note: this isn't a huge part of the course, but there is one section on the fina
 
 Hedging as in finance.
 
+## Lecture L9 Proposals
+
+Proposals are relevant to:
+
+- Student Projects
+- Funding
+- CFP's
+
+### Attention Getter
+
+It isn't super important, but ideally you give someone an idea of what project you're doing and why it might be important.
+
+A really good attention getter is something that can push you into the higher grades, exceptional grades.
+
+### Summary of Existing Work
+
+We need six (6) academic source; we will need to provide a concise clear condensed summary of the sources; not individually but grouped together. That is, summarize the sources in a group.
+
+### The Gap or Knowledge Deficit
+
+This is so we can establish what hasn't already been done. Then we can say that we are going to do what hasn't already been.
+
+### Methodology
+
+Each discipline creates their own ways to do methodology. What kind of evidence are you going to use, where are you going to get it from, and how you are going to analyze it. What are we actually looking for; specifically in some terms. Just simply state how we are going to do the methodology. Has to be more specific than, for example, just looking for some differences; you would need to specify what type of difference we are looking for.
+
+### Value
+
+Value is what puts you over the top; but value is subjective. It is based on what someone else wants, and your ability to give it to them. This is less important for student projects; they are just making sure you can do it within the general requirements, however, in the "real world", ex., applying for conferences, etc.
+
+### Examples
+
+#### IPV Example
+
+Dealing with IPV; for some reason this is what you will find on engineering CFP's.
+
+Note: in our class, our proposals are too short for subheadings, in the field you will need them, sometimes, but in this class we do not use subheadings.
+
+#### Contrived Example
+
+Again, do not summarize each source.
+
+Ex. "Other scholars are less overtly critical, but tend to repeat the genre pioneering narrative introduced by the mainstream press (Shuck; Blodgett) or focus on Peretti's connection to conservation politics (Gribben; Howard).
+
+If something is essential to the paper we are proposing we can include more information in our summary.
+
+In this example, the gap is something that most previous papers have not included, it is usually one sentence.
+
+#### Megan Fox Example
+
+There wasn't a clear identification of a knowledge deficit or a gap. There is a summary of previous work, but no identification of the aforementioned knowledge deficit or gap. However, this is a somewhat under researched subject in academia. There were zero mentioned of previous papers that touch on celebrities communications with the public, or concerning religion.
+
+The methodology is OK, could be far, far, far, clearer.
+
+The value of the proposed paper isn't super clear. It could be worded slightly better and make a better case for its value.
+
+Make sure that you network, because this "bad" proposal was accepted due to a personal relationship with the person who decides whether we accept a proposal or not.
